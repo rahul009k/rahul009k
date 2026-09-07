@@ -1,11 +1,8 @@
-
 # Hi there, I'm Rahul Kumar 👋
 
-### Software Developer | .NET Backend Developer | Backend Enthusiast
+### Software Developer | .NET Backend Developer
 
 I'm a Software Developer focused on building backend applications with **C# and .NET**. I enjoy working with APIs, databases, application architecture, and writing clean, maintainable code.
-
-I'm also expanding my backend toolkit with **Node.js, Express.js, and TypeScript** through hands-on projects.
 
 ---
 
@@ -15,9 +12,8 @@ I'm also expanding my backend toolkit with **Node.js, Express.js, and TypeScript
 - 🔹 Working with **C# / .NET** and API development
 - 🗄️ Experience with **SQL Server** and data-driven applications
 - 🧩 Interested in **CQRS, MediatR, Entity Framework Core, and Dapper**
-- 🌱 Currently strengthening my skills in **Node.js, Express.js, and TypeScript**
-- 🛠️ I learn by building real projects and keeping practical notes
-- 🎯 Focused on becoming a stronger backend and full-stack engineer
+- 🛠️ Focused on writing clean, maintainable, and scalable code
+- 🎯 Continuously improving my backend development skills
 
 ---
 
@@ -28,9 +24,6 @@ I'm also expanding my backend toolkit with **Node.js, Express.js, and TypeScript
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Database & Architecture
 
@@ -50,53 +43,26 @@ I'm also expanding my backend toolkit with **Node.js, Express.js, and TypeScript
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🔷 CQRS
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul009k&show_icons=true&theme=radical)
 
-.NET 8 Web API exploring **CQRS with MediatR**, Entity Framework Core, SQL Server, commands, queries, handlers, repository patterns, and tests.
-
-👉 [View Project](https://github.com/rahul009k/CQRS)
-
-### 🔷 CQRS with Dapper
-
-Exploring CQRS architecture with **Dapper** and a lightweight data-access approach.
-
-👉 [View Project](https://github.com/rahul009k/CQRS-with-dapper)
-
-### 🔷 Expense Tracking
-
-A project focused on expense tracking and data management.
-
-👉 [View Project](https://github.com/rahul009k/Expense_Tracking)
-
-### 🔷 .NET Backend Learning Path
-
-A structured browser-based roadmap for .NET backend preparation with progress tracking.
-
-👉 [View Project](https://github.com/rahul009k/dotnet-prep)
-
-### 🔷 Node.js / Express Learning
-
-A step-by-step repository covering Node.js concepts, environment variables, file-system APIs, JSON handling, and backend learning.
-
-👉 [View Project](https://github.com/rahul009k/Express)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul009k&layout=compact&theme=radical)
 
 ---
 
-## 📚 Currently Learning
+## 🔥 Contribution Streak
 
-```text
-.NET / C#
-    ↓
-ASP.NET Core & Backend Architecture
-    ↓
-SQL Server / EF Core / Dapper
-    ↓
-CQRS / MediatR
-    ↓
-Node.js
-    ↓
-Express.js
-    ↓
-TypeScript
+![GitHub Streak](https://streak-stats.demolab.com?user=rahul009k&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar666)
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahul009k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul009k)
+
+---
+
+⭐ From [Rahul Kumar](https://github.com/rahul009k)

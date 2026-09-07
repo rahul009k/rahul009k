@@ -62,8 +62,14 @@ I enjoy working with APIs, databases, application architecture, and writing clea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rahul009k&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul009k&layout=compact&theme=radical" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rahul009k&show_icons=true&theme=radical" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul009k&layout=compact&theme=radical" 
+    height="170"
+  />
 </p>
 
 ---

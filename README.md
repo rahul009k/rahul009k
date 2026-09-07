@@ -42,18 +42,11 @@ I'm a Software Developer focused on building backend applications with **C# and 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul009k&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul009k&layout=compact&theme=radical)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rahul009k&theme=radical)
 
 ---
 

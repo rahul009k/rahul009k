@@ -11,6 +11,10 @@
 I'm a Software Developer focused on building backend applications with **C# and .NET**.  
 I enjoy working with APIs, databases, application architecture, and writing clean, maintainable code.
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rahul009k&label=Profile%20Views&color=512BD4&style=flat" />
+
 </div>
 
 ---
@@ -59,18 +63,13 @@ I enjoy working with APIs, databases, application architecture, and writing clea
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Core Focus
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rahul009k&show_icons=true&theme=radical" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul009k&layout=compact&theme=radical" 
-    height="170"
-  />
-</p>
+- ⚡ Backend API Development with **ASP.NET Core**
+- 🏗️ Clean Architecture and Application Design
+- 🗄️ SQL Server and Database Development
+- 🔄 Entity Framework Core and Dapper
+- 🧩 CQRS and MediatR
 
 ---
 
